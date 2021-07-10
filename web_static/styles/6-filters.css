@@ -115,8 +115,10 @@ button:hover {
 
 .amenities:hover .popover {
     display: block;
+    position: relative;
 }
 
 .locations:hover .popover {
     display: block;
+    position: relative;
 }
